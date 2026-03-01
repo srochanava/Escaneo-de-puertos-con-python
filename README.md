@@ -20,22 +20,7 @@ No requiere instalación de paquetes externos.
 
 ## Ejemplo de Ejecución:
 
-    === Escáner de puertos simple ===
-    
-    Ingresa la dirección IP a escanear: 192.168.1.1
-    Puerto inicial (ej. 1): 1
-    Puerto final (ej. 1024): 100
-    
-    Escaneando 192.168.1.1 desde puerto 1 hasta 100
-    - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    Puerto    22 → ABIERTO → SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.1
-    Puerto    80 → ABIERTO → (sin banner)
-    - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-    
-    Escaneo finalizado.
-    Se encontraron 2 puerto(s) abierto(s)
-    Rastreo finalizado
-
+<img width="510" height="249" alt="ejemplo_portscanner" src="https://github.com/user-attachments/assets/012f292c-d55c-4ffc-8fa2-f28ca9b42c5f" />
 
 ## Advertencias importantes:
 
